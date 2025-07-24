@@ -1,0 +1,12 @@
+/workspaces/lotterybingo/LotteryBingo/bin/Debug/net8.0/LotteryBingo.deps.json
+/workspaces/lotterybingo/LotteryBingo/bin/Debug/net8.0/LotteryBingo.dll
+/workspaces/lotterybingo/LotteryBingo/bin/Debug/net8.0/LotteryBingo.pdb
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/LotteryBingo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/LotteryBingo.AssemblyInfoInputs.cache
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/LotteryBingo.AssemblyInfo.cs
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/LotteryBingo.csproj.CoreCompileInputs.cache
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/LotteryBingo.sourcelink.json
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/LotteryBingo.dll
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/refint/LotteryBingo.dll
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/LotteryBingo.pdb
+/workspaces/lotterybingo/LotteryBingo/obj/Debug/net8.0/ref/LotteryBingo.dll
